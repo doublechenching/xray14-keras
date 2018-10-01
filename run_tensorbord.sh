@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES='7' tensorboard --logdir=./logs/xray14_wce_pretrain
