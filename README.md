@@ -11,7 +11,7 @@ After 23 epochs training with vanilla xception model ,I get a roc score close to
 1. roc score comparing with known publish result
 ![example](https://raw.githubusercontent.com/doublechenching/xray14-keras/master/results/roc_score.png)
 2. roc curve
-![example](https://raw.githubusercontent.com/doublechenching/xray14-keras/master/results/roc_curve.png)
+![example](https://raw.githubusercontent.com/doublechenching/xray14-keras/master/results/vanilla_xeception_roc.png)
 
 
 ## problems I found
